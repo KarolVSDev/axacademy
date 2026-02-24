@@ -1,0 +1,2 @@
+teste = "saknshabsga"
+print(teste)
