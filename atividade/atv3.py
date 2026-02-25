@@ -1,2 +1,2 @@
-teste3 = "Testando"
+teste3 = "Flamengo"
 print(teste3)
